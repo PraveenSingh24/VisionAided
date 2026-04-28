@@ -1,0 +1,6 @@
+[submodule "Simulation_Workspace"]
+	path = Simulation_Workspace
+	url = https://github.com/PraveenSingh24/VisionAidedPathPlanning.git
+[submodule "Physical_Husky_Workspace"]
+	path = Physical_Husky_Workspace
+	url = https://github.com/PraveenSingh24/VisionAidedPathPlanningHuskyA200.git
